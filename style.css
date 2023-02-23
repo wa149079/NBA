@@ -1,8 +1,25 @@
 h1 {
     color:black;
-    font-style: oblique;
+    font-style: arial;
 }
 #balken {
-    padding: 10px;
+    padding: 20px;
     background-color: darkorange;
+}
+.search{
+    display: flex;
+    align-items: stretch;
+    
+}
+.News{
+    display: flex;
+}
+.Teams{
+    display: flex;
+}
+.MVPAward{
+    display: flex;
+}
+.Scoreboard{
+    display: flex;
 }
