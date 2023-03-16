@@ -3,8 +3,10 @@ h1 {
     font-style: arial;
 }
 #balken {
+    
+  
     padding: 20px;
-    background-color: rgba(245, 159, 56, 0.985);
+    background-color: rgba(248, 175, 92, 0.985)
 }
 .search{
     display: flex;
