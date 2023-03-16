@@ -4,7 +4,7 @@ h1 {
 }
 #balken {
     padding: 20px;
-    background-color: darkorange;
+    background-color: rgba(245, 159, 56, 0.985);
 }
 .search{
     display: flex;
