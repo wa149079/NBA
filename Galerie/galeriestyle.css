@@ -1,9 +1,17 @@
 img {
-    width: 200px; /* Setzen Sie hier Ihre Standardbildbreite ein */
-    height: auto; /* Stellt sicher, dass das Bildverhältnis beibehalten wird */
+    width: 450px; /* Setzen Sie hier Ihre Standardbildbreite ein */
+    height: 300px; /* Stellt sicher, dass das Bildverhältnis beibehalten wird */
     transition: transform 0.2s ease-in-out; /* Schafft eine weiche Transformation */
   }
 
   img:hover {
     transform: scale(1.1); /* Vergrößert das Bild um 10% */
+  }
+  .image-container {
+    display: flex;
+    justify-content: center;
+
+  }
+  .image-container img {
+    margin-right: 10px;
   }
