@@ -1,3 +1,6 @@
+body{
+  background-color: rgba(243, 222, 147, 0.314);
+}
 img {
     width: 450px; 
     height: 300px; 
@@ -11,14 +14,19 @@ img {
     display: flex;
     justify-content: center;
     
+    
   }
   .image-container img {
     margin-right: 10px;
+    ;
   }
   .Überschrift {
     display: flex;
     justify-content: center;
-    padding: 30px;
-    background-color: darkorange;
-    margin-bottom: 5px;
+    padding: 20px;
+    background-color: rgba(243, 222, 147, 0.903);
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
   }
+
